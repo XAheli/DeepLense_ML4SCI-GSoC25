@@ -82,20 +82,22 @@ DenseNet architectures are particularly effective for gravitational lensing clas
 ## Results Visualization
 
 ### DenseNet161
-![DenseNet161 Confusion Matrix](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/densenet161_confusi Curve
-![DenseNet161 ROC Curve](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/densenet161_roc_curining History
-![DenseNet161 Accuracy and Loss](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/densenet161_trainineNet201 Model Evaluation
+![DenseNet161 Confusion Matrix](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Densenet161/conf%20mat.png)
+![DenseNet161 ROC Curve](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Densenet161/download%20(1).png)
+![DenseNet161 Accuracy and Loss](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Densenet161/download.png)
+![DenseNet161 Classification Report](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Densenet161/Screenshot%202025-03-30%20025552.png)
 
 ### DenseNet201
-![DenseNet201 Confusion Matrix](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/densenet201_confusion_ Curve
-![DenseNet201 ROC Curve](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/densenet201_roc_ining History
-![DenseNet201 Accuracy and Loss](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/densenet201_trainible Model Evaluation
+![DenseNet201 Confusion Matrix](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Densenet201/conf%20matrix.png)
+![DenseNet201 ROC Curve](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Densenet201/download.png)
+![DenseNet201 Accuracy and Loss](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Densenet201/download%20(2).png)
+![DenseNet201 Classification Report](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Densenet201/Screenshot%202025-03-30%20025858.png)
 
 ### Ensemble
-![Ensemble Model Confusion Matrix](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/ensemble_confusion_matriC Curve
-![Ensemble Model ROC Curve](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/ensemble_roc_curveaining History
-![Ensemble Model Accuracy and Loss](https://raw.githubusercontent.com/yourusername/your-repo-name/main/images/ensemble_training_histoined Model Evaluation
-
+![Ensemble Model Confusion Matrix](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Ensemble/download.png)
+![Ensemble Model ROC Curve](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Ensemble/download%20(2).png)
+![Ensemble Model Accuracy and Loss](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Ensemble/download%20(1).png)
+![Ensemble Model Classification Report](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Common%20Test%20I/Images/Ensemble/Screenshot%202025-03-30%20030114.png)
 
 ---
 
