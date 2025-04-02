@@ -65,7 +65,7 @@ This repository demonstrates implementations of three key machine learning tasks
 ![Best Model ROC](https://github.com/XAheli/DeepLense_ML4SCI-GSoC25/blob/main/Specific%20Test%20II%20Lens%20Finding/Images/best%20model_ROC.png)
 
 
-### Task 3: Diffusion Model
+### Task 4: Diffusion Model
 
 **Objective**: Generate synthetic gravitational lensing images using advanced generative models.
 
